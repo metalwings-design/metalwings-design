@@ -1,10 +1,8 @@
  Hi, I’m Sanket.
  
-I work with data, statistics, and research.
-I enjoy analyzing data, finding patterns, and turning numbers into useful insights. My work mainly involves econometrics, data analysis, and programming using R and Python.
-I like learning new tools, improving my skills, and working on real-world problems.
+I work at the intersection of data, statistics, and applied research. My primary focus is econometrics, data analysis, and computational methods using R and Python. I enjoy transforming complex datasets into meaningful insights that inform decisions and solve real-world problems.
 
-This GitHub page contains some of my projects, experiments, and learning notes.
+This GitHub page showcases selected projects and technical notes from my ongoing learning journey.
 
 <!---
 metalwings-design/metalwings-design is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
